@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "My personal experiences and current research"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,7 +9,6 @@ redirect_from:
 
 
 
-About Me
 ======
 I am a doctoral candidate in Mathematics at Nanjing Normal University. My research interests focus on the application of algebraic geometry  to complex network game problems, and the application of polynomial optimization to operations research in the economic field.
 
